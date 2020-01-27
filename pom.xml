@@ -1,0 +1,10 @@
+<repository>
+  <id>ccxxzero</id>
+  <url>https://pkgs.dev.azure.com/thanagonp/cloud/_packaging/ccxxzero/maven/v1</url>
+  <releases>
+    <enabled>true</enabled>
+  </releases>
+  <snapshots>
+    <enabled>true</enabled>
+  </snapshots>
+</repository>
